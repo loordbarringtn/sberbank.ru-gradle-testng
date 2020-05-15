@@ -1,0 +1,10 @@
+/.gradle/6.1/executionHistory/executionHistory.bin
+/.gradle/6.1/executionHistory/executionHistory.lock
+/.gradle/6.1/fileChanges/last-build.bin
+/.gradle/checksums/md5-checksums.bin
+/.gradle/
+/gradle/wrapper/
+/allure-results/
+/.idea/gradle.xml
+/.idea/jarRepositories.xml
+/.idea/misc.xml
